@@ -1,7 +1,7 @@
 # Arquitectura Web
 
 ## Introducción
-###Integrantes
+Integrantes
 - SIMON DAVID DEL POZO NÚÑEZ 
 - JOSÉ MARÍA CABRERA PERALTA 
 - SERGIO DAVID SOSA VELÁZQUEZ 
